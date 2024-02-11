@@ -36,5 +36,5 @@ The main objective of this project is to build a machine learning model that, gi
 - TOBACCO : if the patient smokes (1) or not (2)
 
 
-From the Kaggle Challenge "ARESD 2023 - CovidChallenge", by Margaux Brégère and Simone Azeglio
+From the Kaggle Challenge "ARESD 2023 - CovidChallenge", by [Margaux Brégère](https://github.com/MargauxBregere) and [Simone Azeglio](https://github.com/sazio)
 https://www.kaggle.com/competitions/aresd-2023-covidchallenge
