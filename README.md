@@ -1,4 +1,4 @@
-# CovidChallenge
+# CovidChallenge - January 2023
 Data Challenge for First Year Bachelor Students of Sorbonne University
 
 
